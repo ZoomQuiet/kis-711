@@ -63,13 +63,15 @@ exports.index = function(fnNext){
     // 总订单、总售出商品数
     combo.add();
     billModel.getCount(today, null, function(err, count){
-        r.today_bills = count.value;
+        //r.today_bills = count.value;
+        r.today_bills = count ? count.value : 0 ;
         combo.finishOne();
     });
     // 总订单、总售出商品数
     combo.add();
     billModel.getCount(yestoday, today, function(err, count){
-        r.yestoday_bills = count.value;
+        //r.yestoday_bills = count.value;
+        r.yestoday_bills = count ? count.value : 0 ;
         combo.finishOne();
     });
     
