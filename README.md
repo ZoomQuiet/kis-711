@@ -1,4 +1,4 @@
-#about
+# kis-711 about
 
   这是帮公司内部写的一个小程序，一个小卖部。
   
@@ -11,6 +11,13 @@
     + [rsms/node-imagemagick](https://github.com/rsms/node-imagemagick) 图片处理模块
         
 + [mongodb](http://www.mongodb.org/) : 一个KV数据库
+
+
+## how to deploy
+
+参考: [kis-711 维基](https://github.com/ZoomQuiet/kis-711/wiki)
+
+
 
 ## how to run
 
