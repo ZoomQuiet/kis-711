@@ -8,7 +8,8 @@
 
     + [n2Mvc](https://github.com/QLeelulu/n2Mvc) : MVC框架
     + [node-mongoskin](https://github.com/guileen/node-mongoskin) : mongodb的其中一个node.js的driver
-    
+    + [rsms/node-imagemagick](https://github.com/rsms/node-imagemagick) 图片处理模块
+        
 + [mongodb](http://www.mongodb.org/) : 一个KV数据库
 
 ## how to run
