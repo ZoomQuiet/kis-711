@@ -22,7 +22,7 @@ exports.MONGO_HOST = 'localhost';
 exports.MONGO_PORT = 27017;
 exports.MONGO_DB_NAME = 'kis-711';
 exports.MONGO_DB_USER = 'root';
-exports.MONGO_DB_PWD = '123456';
+exports.MONGO_DB_PWD = '5t4r3e2w1q';
 
 exports.middlewares = [
     'cookie',
